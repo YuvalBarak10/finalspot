@@ -1,0 +1,9 @@
+2020-05-17 21:53:13,745 - root - ERROR - urllib3 HTTPError ('Connection aborted.', timeout('The write operation timed out'))
+2020-05-17 21:53:13,745 - root - ERROR - MP3_320
+2020-05-17 21:53:13,746 - root - ERROR - https://www.deezer.com/track/906116752
+2020-05-18 01:08:30,341 - root - ERROR - urllib3 HTTPError ('Connection aborted.', timeout('The write operation timed out'))
+2020-05-18 01:08:30,342 - root - ERROR - MP3_320
+2020-05-18 01:08:30,342 - root - ERROR - https://www.deezer.com/track/957645432
+2020-09-22 23:47:55,621 - root - ERROR - urllib3 HTTPError ('Connection aborted.', timeout('The write operation timed out'))
+2020-09-22 23:47:55,622 - root - ERROR - MP3_320
+2020-09-22 23:47:55,622 - root - ERROR - https://www.deezer.com/track/1031435362
