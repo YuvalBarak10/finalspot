@@ -1,0 +1,1 @@
+worker: dwsongs-normal.py
