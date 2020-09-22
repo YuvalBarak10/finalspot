@@ -1585,9 +1585,9 @@ def menu(update, context):
 try:
 	print("1): Free")
 	print("2): Strict")
-	ans = input("Choose: ")
+	#ans = input("Choose: ")
 
-	if ans == "1" or ans == "2":
+	while(1==1):
 		for a in comandss:
 			sets.dispatcher.add_handler(
 				CommandHandler(a, menu)
